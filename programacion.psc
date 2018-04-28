@@ -1,4 +1,5 @@
 Algoritmo Curriculum_1
+	//Fecha: 16-03-2018
 	//	Esto es una prueba para ver lo que recuerdo sin los apuntes
 	Definir nombre Como Caracter
 	Definir seudonimo como caracter
